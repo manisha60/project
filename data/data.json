@@ -1,0 +1,32 @@
+{
+"mobiles":
+[
+{
+"name":"oppo",
+"image":"img/Oppo.jpg",
+"original_price":18000,
+"price":19000
+},
+{
+"name":"oneplus",
+"image":"img/oneplus.jpg",
+"original_price":30000,
+"price":35000
+},
+{ "name":"redmi",
+"image":"img/redmi.jpg",
+"original_price":18000,
+"price":28000
+},
+{ "name":"samsung",
+"image":"img/samsung.jpg",
+"original_price":16000,
+"price":26000
+},
+{ "name":"motorola",
+"image":"img/motorola.jpg",
+"original_price":19000,
+"price":25000
+}
+]
+}
